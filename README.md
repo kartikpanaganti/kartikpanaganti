@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Kartik Panaganati</h1>
+
 ![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8-ezgif com-speed](https://github.com/user-attachments/assets/aa70e398-f47f-4201-a07b-7ec13e133cd3)
 
-<h1 align="center">Hi 👋, I'm Kartik Panaganati</h1>
 <h3 align="center">CSE Final Year Student | Passionate About Software Development | Android Development | Seeking Opportunities in Tech Industry</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
