@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Panaganati</h1>
+<h1 align="center">Hi 👋, I'm Kartik Panaganti</h1>
 
 ![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8-ezgif com-speed](https://github.com/user-attachments/assets/aa70e398-f47f-4201-a07b-7ec13e133cd3)
 
